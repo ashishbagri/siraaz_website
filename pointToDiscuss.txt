@@ -1,0 +1,5 @@
+Points to discuss with demo
+
+1. Page - about.html - My X, Mr Y Mr  Z - Phots , job title.
+2. Menu - Dinner menu photo
+3. Booking/contact form - current submition.
